@@ -1,0 +1,15 @@
+{
+  "name": "express_psight",
+  "version": "1.0.0",
+  "description": "building web applications with node.js and express 4.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
